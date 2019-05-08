@@ -9,5 +9,5 @@ main()
 	c=a+b;
 	d=c;
 	d=a-b;
-	new c - b;
+
 }
