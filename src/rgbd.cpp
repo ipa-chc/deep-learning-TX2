@@ -8,5 +8,6 @@ main()
 	double d;
 	c=a+b;
 	d=c;
+	d=a-b;
 
 }
